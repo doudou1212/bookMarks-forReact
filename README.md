@@ -1,2 +1,3 @@
-# bookMarks-forReact
-数目搜索   react
+for react
+1. jenkins:  build automatically
+2. ELK analyse logs
